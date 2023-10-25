@@ -1,0 +1,2 @@
+# kuboid
+kira isipadu kuboid
