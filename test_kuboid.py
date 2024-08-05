@@ -1,4 +1,5 @@
-import kuboid
+#import workfile.kuboid as kuboid
+from workfile import kuboid
 import pytest
 
 def test_kuboid(monkeypatch, capsys):
