@@ -7,7 +7,7 @@ def kuboid():
     b = float(input("Masukkan lebar: "))
     c = float(input("Masukkan tinggi: "))
     isipadu = kira_isipadu(a, b, c)
-    print(f"Isipadu kuboid = {isipadu}"
+    print(f"Isipadu kuboid = {isipadu}"))
 
 # JANGAN ubah kod di bawah
 if __name__ == "__main__":
