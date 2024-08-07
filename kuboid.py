@@ -12,4 +12,3 @@ def kuboid():
 # JANGAN ubah kod di bawah
 if __name__ == "__main__":
     kuboid()
-    
